@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MoviesNetflix/static/css/main.7ddbc700.css",
+    "main.js": "/MoviesNetflix/static/js/main.54b1f5db.js",
+    "static/media/logo.png": "/MoviesNetflix/static/media/logo.185b7fd65a178ade07ad.png",
+    "index.html": "/MoviesNetflix/index.html",
+    "main.7ddbc700.css.map": "/MoviesNetflix/static/css/main.7ddbc700.css.map",
+    "main.54b1f5db.js.map": "/MoviesNetflix/static/js/main.54b1f5db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ddbc700.css",
+    "static/js/main.54b1f5db.js"
+  ]
+}
